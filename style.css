@@ -2,8 +2,8 @@
 
 :root {
   --modal-duration: 1s;
-  --primary-color: #30336b;
-  --secondary-color: #be2edd;
+  --primary-color: rgb(250, 46, 46);
+  --secondary-color: #6667ab;
 }
 
 * {
@@ -156,7 +156,7 @@ button:focus {
 
 .modal-header h3 {
   margin: 0;
-  border-bottom: 1px solid #333;
+  /* border-bottom: 1px solid #333; */
 }
 
 .modal-content {
